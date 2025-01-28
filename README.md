@@ -12,10 +12,9 @@ Searchable restaurant listings categorized by cuisine, location, and popularity.
 Community reviews with ratings and photo uploads.
 Personalized restaurant recommendations using AI.
 Geolocation to find nearby restaurants.
-Favorites and social sharing features.
+
 
 Tech Stack:
-
 Frontend: React.js
 Backend: Node.js, Express.js
 Database: MongoDB
